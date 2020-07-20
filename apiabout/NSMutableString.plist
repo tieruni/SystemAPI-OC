@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>classapi</key>
+	<array>
+		<string>[varname class];</string>
+		<string>[varname superclass];</string>
+		<string>[varname isSubclassOfClass: therandomclass];</string>
+		<string>[varname description];</string>
+		<string>[varname classForKeyedUnarchiver];</string>
+		<string>[varname version];</string>
+	</array>
+	<key>instanceapi</key>
+	<array>
+		<string>[varname copy];</string>
+		<string>[varname mutableCopy];</string>
+		<string>[varname autoContentAccessingProxy];</string>
+		<string>[varname classForArchiver];</string>
+		<string>[varname classForCoder];</string>
+		<string>[varname classForKeyedArchiver];</string>
+		<string>[varname attributeKeys];</string>
+		<string>[varname classDescription];</string>
+		<string>[varname toManyRelationshipKeys];</string>
+		<string>[varname toOneRelationshipKeys];</string>
+		<string>[varname classCode];</string>
+		<string>[varname className];</string>
+		<string>[varname scriptingProperties];</string>
+		<string>[varname accessibilityActivationPoint];</string>
+		<string>[varname accessibilityAttributedHint];</string>
+		<string>[varname accessibilityAttributedLabel];</string>
+		<string>[varname accessibilityAttributedValue];</string>
+		<string>[varname accessibilityContainerType];</string>
+		<string>[varname accessibilityCustomActions];</string>
+		<string>[varname accessibilityCustomRotors];</string>
+		<string>[varname accessibilityDragSourceDescriptors];</string>
+		<string>[varname accessibilityDropPointDescriptors];</string>
+		<string>[varname accessibilityElements];</string>
+		<string>[varname accessibilityElementsHidden];</string>
+		<string>[varname accessibilityFrame];</string>
+		<string>[varname accessibilityHint];</string>
+		<string>[varname accessibilityLabel];</string>
+		<string>[varname accessibilityLanguage];</string>
+		<string>[varname accessibilityNavigationStyle];</string>
+		<string>[varname accessibilityPath];</string>
+		<string>[varname accessibilityTraits];</string>
+		<string>[varname accessibilityValue];</string>
+		<string>[varname accessibilityViewIsModal];</string>
+		<string>[varname isAccessibilityElement];</string>
+		<string>[varname observationInfo];</string>
+		<string>[varname shouldGroupAccessibilityChildren];</string>
+		<string>[varname accessInstanceVariablesDirectly];</string>
+		<string>[varname length];</string>
+		<string>[varname UTF8String];</string>
+		<string>[varname hasPrefix:ocstringvalue];</string>
+		<string>[varname hasSuffix:ocstringvalue];</string>
+		<string>[varname isEqualToString:ocstringvalue];</string>
+		<string>[varname hash];</string>
+		<string>[varname lowercaseString];</string>
+		<string>[varname uppercaseString];</string>
+		<string>[varname capitalizedString];</string>
+		<string>[varname componentsSeparatedByString:ocstringvalue];</string>
+		<string>[varname decomposedStringWithCanonicalMapping];</string>
+		<string>[varname decomposedStringWithCompatibilityMapping];</string>
+		<string>[varname precomposedStringWithCanonicalMapping];</string>
+		<string>[varname precomposedStringWithCompatibilityMapping];</string>
+		<string>[varname containsString:ocstringvalue];</string>
+		<string>[varname localizedCaseInsensitiveContainsString:ocstringvalue];</string>
+		<string>[varname localizedStandardContainsString:ocstringvalue];</string>
+		<string>[varname rangeOfString:ocstringvalue];</string>
+		<string>[varname rangeOfString:ocstringvalue options:ocstringcompareoptionmask];</string>
+		<string>[varname localizedStandardRangeOfString:ocstringvalue];</string>
+		<string>[varname stringByReplacingOccurrencesOfString:ocstringvalue withString:ocstringvalue];</string>
+		<string>[varname commonPrefixWithString:ocstringvalue options:ocstringcompareoptionmask];</string>
+		<string>[varname propertyList];</string>
+		<string>[varname propertyListFromStringsFileFormat];</string>
+		<string>[varname doubleValue];</string>
+		<string>[varname floatValue];</string>
+		<string>[varname intValue];</string>
+		<string>[varname integerValue];</string>
+		<string>[varname longLongValue];</string>
+		<string>[varname boolValue];</string>
+		<string>[varname availableStringEncodings];</string>
+		<string>[varname defaultCStringEncoding];</string>
+		<string>[varname dataUsingEncoding:ocstringencodingvalue]</string>
+		<string>[varname description];</string>
+		<string>[varname fastestEncoding];</string>
+		<string>[varname smallestEncoding];</string>
+		<string>[varname pathComponents];</string>
+		<string>[varname fileSystemRepresentation];</string>
+		<string>[varname absolutePath];</string>
+		<string>[varname lastPathComponent];</string>
+		<string>[varname pathExtension];</string>
+		<string>[varname stringByAbbreviatingWithTildeInPath];</string>
+		<string>[varname stringByDeletingLastPathComponent];</string>
+		<string>[varname stringByDeletingPathExtension];</string>
+		<string>[varname stringByExpandingTildeInPath];</string>
+		<string>[varname stringByResolvingSymlinksInPath];</string>
+		<string>[varname stringByStandardizingPath];</string>
+		<string>[varname stringByRemovingPercentEncoding];</string>
+	</array>
+</dict>
+</plist>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>classapi</key>
+	<array>
+		<string>[varname class];</string>
+		<string>[varname superclass];</string>
+		<string>[varname isSubclassOfClass: therandomclass];</string>
+		<string>[varname description];</string>
+		<string>[varname classForKeyedUnarchiver];</string>
+		<string>[varname version];</string>
+	</array>
+	<key>instanceapi</key>
+	<array>
+		<string>[varname copy];</string>
+		<string>[varname mutableCopy];</string>
+		<string>[varname doesContain:therandominstance];</string>
+		<string>[varname autoContentAccessingProxy];</string>
+		<string>[varname classForArchiver];</string>
+		<string>[varname classForCoder];</string>
+		<string>[varname classForKeyedArchiver];</string>
+		<string>[varname attributeKeys];</string>
+		<string>[varname classDescription];</string>
+		<string>[varname toManyRelationshipKeys];</string>
+		<string>[varname toOneRelationshipKeys];</string>
+		<string>[varname classCode];</string>
+		<string>[varname className];</string>
+		<string>[varname scriptingProperties];</string>
+		<string>[varname accessibilityActivationPoint];</string>
+		<string>[varname accessibilityAttributedHint];</string>
+		<string>[varname accessibilityAttributedLabel];</string>
+		<string>[varname accessibilityAttributedValue];</string>
+		<string>[varname accessibilityContainerType];</string>
+		<string>[varname accessibilityCustomActions];</string>
+		<string>[varname accessibilityCustomRotors];</string>
+		<string>[varname accessibilityDragSourceDescriptors];</string>
+		<string>[varname accessibilityDropPointDescriptors];</string>
+		<string>[varname accessibilityElements];</string>
+		<string>[varname accessibilityElementsHidden];</string>
+		<string>[varname accessibilityFrame];</string>
+		<string>[varname accessibilityHint];</string>
+		<string>[varname accessibilityLabel];</string>
+		<string>[varname accessibilityLanguage];</string>
+		<string>[varname accessibilityNavigationStyle];</string>
+		<string>[varname accessibilityPath];</string>
+		<string>[varname accessibilityTraits];</string>
+		<string>[varname accessibilityValue];</string>
+		<string>[varname accessibilityViewIsModal];</string>
+		<string>[varname isAccessibilityElement];</string>
+		<string>[varname observationInfo];</string>
+		<string>[varname shouldGroupAccessibilityChildren];</string>
+		<string>[varname accessInstanceVariablesDirectly];</string>
+		<string>[varname temporaryDirectory];</string>
+		<string>[varname delegate];</string>
+		<string>[varname currentDirectoryPath];</string>
+	</array>
+</dict>
+</plist>

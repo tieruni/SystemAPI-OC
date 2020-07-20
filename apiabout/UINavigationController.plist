@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>classapi</key>
+	<array>
+		<string>[varname class];</string>
+		<string>[varname superclass];</string>
+		<string>[varname isSubclassOfClass: therandomclass];</string>
+		<string>[varname description];</string>
+		<string>[varname classForKeyedUnarchiver];</string>
+		<string>[varname version];</string>
+	</array>
+	<key>instanceapi</key>
+	<array>
+		<string>[varname copy];</string>
+		<string>[varname mutableCopy];</string>
+		<string>[varname doesContain:therandominstance];</string>
+		<string>[varname autoContentAccessingProxy];</string>
+		<string>[varname classForArchiver];</string>
+		<string>[varname classForCoder];</string>
+		<string>[varname classForKeyedArchiver];</string>
+		<string>[varname attributeKeys];</string>
+		<string>[varname classDescription];</string>
+		<string>[varname toManyRelationshipKeys];</string>
+		<string>[varname toOneRelationshipKeys];</string>
+		<string>[varname classCode];</string>
+		<string>[varname className];</string>
+		<string>[varname scriptingProperties];</string>
+		<string>[varname accessibilityActivationPoint];</string>
+		<string>[varname accessibilityAttributedHint];</string>
+		<string>[varname accessibilityAttributedLabel];</string>
+		<string>[varname accessibilityAttributedValue];</string>
+		<string>[varname accessibilityContainerType];</string>
+		<string>[varname accessibilityCustomActions];</string>
+		<string>[varname accessibilityCustomRotors];</string>
+		<string>[varname accessibilityDragSourceDescriptors];</string>
+		<string>[varname accessibilityDropPointDescriptors];</string>
+		<string>[varname accessibilityElements];</string>
+		<string>[varname accessibilityElementsHidden];</string>
+		<string>[varname accessibilityFrame];</string>
+		<string>[varname accessibilityHint];</string>
+		<string>[varname accessibilityLabel];</string>
+		<string>[varname accessibilityLanguage];</string>
+		<string>[varname accessibilityNavigationStyle];</string>
+		<string>[varname accessibilityPath];</string>
+		<string>[varname accessibilityTraits];</string>
+		<string>[varname accessibilityValue];</string>
+		<string>[varname accessibilityViewIsModal];</string>
+		<string>[varname isAccessibilityElement];</string>
+		<string>[varname observationInfo];</string>
+		<string>[varname shouldGroupAccessibilityChildren];</string>
+		<string>[varname accessInstanceVariablesDirectly];</string>
+		<string>[varname nextResponder];</string>
+		<string>[varname isFirstResponder];</string>
+		<string>[varname canBecomeFirstResponder];</string>
+		<string>[varname canResignFirstResponder];</string>
+		<string>[varname inputView];</string>
+		<string>[varname inputViewController];</string>
+		<string>[varname inputAccessoryView];</string>
+		<string>[varname inputAccessoryViewController];</string>
+		<string>[varname undoManager];</string>
+		<string>[varname keyCommands];</string>
+		<string>[varname textInputMode];</string>
+		<string>[varname textInputContextIdentifier];</string>
+		<string>[varname inputAssistantItem];</string>
+		<string>[varname userActivity];</string>
+		<string>[varname view];</string>
+		<string>[varname viewIfLoaded];</string>
+		<string>[varname isViewLoaded];</string>
+		<string>[varname title];</string>
+		<string>[varname preferredContentSize];</string>
+		<string>[varname isBeingDismissed];</string>
+		<string>[varname isBeingPresented];</string>
+		<string>[varname isMovingFromParentViewController];</string>
+		<string>[varname isMovingToParentViewController];</string>
+		<string>[varname edgesForExtendedLayout];</string>
+		<string>[varname extendedLayoutIncludesOpaqueBars];</string>
+		<string>[varname shouldAutorotate];</string>
+		<string>[varname supportedInterfaceOrientations];</string>
+		<string>[varname preferredInterfaceOrientationForPresentation];</string>
+		<string>[varname modalPresentationStyle];</string>
+		<string>[varname modalTransitionStyle];</string>
+		<string>[varname definesPresentationContext];</string>
+		<string>[varname providesPresentationContextTransitionStyle];</string>
+		<string>[varname disablesAutomaticKeyboardDismissal];</string>
+		<string>[varname transitioningDelegate];</string>
+		<string>[varname transitionCoordinator];</string>
+		<string>[varname presentationController];</string>
+		<string>[varname popoverPresentationController];</string>
+		<string>[varname restoresFocusAfterTransition];</string>
+		<string>[varname childViewControllers];</string>
+		<string>[varname shouldAutomaticallyForwardAppearanceMethods];</string>
+		<string>[varname presentingViewController];</string>
+		<string>[varname presentedViewController];</string>
+		<string>[varname parentViewController];</string>
+		<string>[varname splitViewController];</string>
+		<string>[varname navigationController];</string>
+		<string>[varname tabBarController];</string>
+		<string>[varname navigationItem];</string>
+		<string>[varname hidesBottomBarWhenPushed];</string>
+		<string>[varname toolbarItems];</string>
+		<string>[varname tabBarItem];</string>
+		<string>[varname extensionContext];</string>
+		<string>[varname childViewControllerForStatusBarHidden];</string>
+		<string>[varname childViewControllerForStatusBarStyle];</string>
+		<string>[varname preferredStatusBarStyle];</string>
+		<string>[varname prefersStatusBarHidden];</string>
+		<string>[varname modalPresentationCapturesStatusBarAppearance];</string>
+		<string>[varname preferredStatusBarUpdateAnimation];</string>
+		<string>[varname isEditing];</string>
+		<string>[varname editButtonItem];</string>
+		<string>[varname restorationIdentifier];</string>
+		<string>[varname restorationClass];</string>
+		<string>[varname delegate];</string>
+		<string>[varname topViewController];</string>
+		<string>[varname visibleViewController];</string>
+		<string>[varname viewControllers];</string>
+		<string>[varname interactivePopGestureRecognizer];</string>
+		<string>[varname navigationBar];</string>
+		<string>[varname toolbar];</string>
+		<string>[varname isToolbarHidden];</string>
+		<string>[varname hidesBarsOnTap];</string>
+		<string>[varname hidesBarsOnSwipe];</string>
+		<string>[varname hidesBarsWhenVerticallyCompact];</string>
+		<string>[varname hidesBarsWhenKeyboardAppears];</string>
+		<string>[varname isNavigationBarHidden];</string>
+		<string>[varname barHideOnTapGestureRecognizer];</string>
+		<string>[varname barHideOnSwipeGestureRecognizer];</string>
+	</array>
+</dict>
+</plist>
